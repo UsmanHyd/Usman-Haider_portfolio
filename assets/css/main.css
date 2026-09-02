@@ -214,7 +214,7 @@ h3 { font-size: 1.5rem; }
 .hero {
   position: relative;
   min-height: 90vh;
-  padding: 8rem 0 6rem;
+  padding: 6.5rem 0 6rem;
   overflow: hidden;
 }
 
@@ -241,7 +241,7 @@ h3 { font-size: 1.5rem; }
   display: grid;
   gap: 2.5rem;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  align-items: center;
+  align-items: start;
 }
 
 .hero-copy {
